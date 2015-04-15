@@ -5,6 +5,7 @@ This script will visit a number of urls given in input file and return their sta
     ./getUrlStatusCode.sh -i ~/Desktop/input.txt -o ~/Desktop/Test/StatusCodes
 
 Can result in file structed like:
+    
     .
     |____StatusCodes
     | |____200.txt
