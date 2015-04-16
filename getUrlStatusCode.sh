@@ -1,5 +1,7 @@
 #!/bin/bash -e
 
+# Comment 1
+
 # Check if Curl is installed, exit if not.
 CURL=`which curl`
 if [ -z "$CURL" ]; then
